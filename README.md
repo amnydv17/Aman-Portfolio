@@ -4,11 +4,11 @@
 This repository contains the source code for my personal portfolio website, which showcases my work, skills, and experiences as a web developer. The website is built using HTML, CSS, and JavaScript to create an interactive and visually appealing experience for visitors.
 
 # Table of Contents
-1-Features
-2-Technologies Used
-3-Getting Started
-4-Usage
-5-Customization
+1-Features <br/>
+2-Technologies Used <br/>
+3-Getting Started <br/>
+4-Usage <br/>
+5-Customization <br/>
 6-License
 
 # Features
