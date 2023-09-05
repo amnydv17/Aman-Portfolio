@@ -29,7 +29,7 @@ Theme: Theme and transitions to enhance the user experience.
 # Getting Started
 To view or work on this portfolio website, follow these steps:
 
-**Clone this repository to your local machine using the following command:** git clone https://github.com/yourusername/portfolio-website.git
+**Clone this repository to your local machine using the following command:** git clone https://github.com/amnydv17/Aman-Portfolio
 
 **Open the project folder in your favorite code editor.**
 
